@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-
-
-My homework 1 was done!
-=======
->>>>>>> parent of 96ee14a... Add code for HW1 and added text
