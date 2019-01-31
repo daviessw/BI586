@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+=======
+
+
+My homework 1 was done!
+>>>>>>> parent of 096d21a... Revert back to no code
