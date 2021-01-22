@@ -1,5 +1,6 @@
 # BI586
-Ecological and Evolutionary Genomics 2019
+Ecological and Evolutionary Genomics 2021
+#PandemicVersion
 
 This is the space where all lecture/lab materials will be placed. 
 
