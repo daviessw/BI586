@@ -9,3 +9,5 @@ You can also access the syllabus and schedule here: https://drive.google.com/fil
 Linux cheat sheet: http://scv.bu.edu/documents/Linux_SCC_CheatSheet.pdf
 
 SCC cheat sheet: http://scv.bu.edu/documents/SCC_CheatSheet.pdf
+
+Intro to SCC Lecture: https://bostonu.zoom.us/rec/share/w1pL6n5MYcu_smNmsY9L1U5EMGnqde1uyC2vcZage4yWhGwpoRExWPcXx7Q__Nwe.a5JNIXNsrcmK1yIE?startTime=1612275832000
