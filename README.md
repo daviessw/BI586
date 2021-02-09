@@ -19,5 +19,4 @@ If you are still looking for more practice in R: http://swcarpentry.github.io/r-
 I also recommend swirl for people who are really new to R: https://swirlstats.com/ 
 Here are some additional short videos from a Harvard course on R: https://www.youtube.com/playlist?list=PLGuncvBacIacY7g42iJRcIkhgnzKTjKbC
 
-Lecture 4: Introduction to Git using RStudio interface: https://bostonu.zoom.us/rec/share/_wytl7YNoZluz_zA0OZi9ofdTVXiG4uRfkc1tAzJKnX-irjvkk0LLEMTOLam_DHj.3kxM5B8INhBhhSJ_
-(Access Password: acyS$zf9)
+Lecture 4: Introduction to Git using RStudio interface: https://bostonu.zoom.us/rec/share/WKwCO0In9lsdV_PPJdNdV4-68OJnL7c-BEfDVZSNP8F2i5LG-0i2vWQ--hd5I9HK.9Rmav3Fag9wmfyas?startTime=1612879440000
