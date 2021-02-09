@@ -1,0 +1,84 @@
+---
+title: "Untitled"
+author: "James Fifer, Sarah Davies"
+date: "February 9, 2021"
+output: html_document
+---
+
+## Objectives
+
+The primary goal of this exercise is to gain experience working collaboratively to develop a scientific workflow. As such, this assignment needs to be completed with a partner. Specifically, we will outline a simple analysis, break the overall job into parts, and have each person complete part of the project. To put these parts together we will be using Github. 
+
+
+
+
+## Task 1: Create & Clone Repository 
+
+Because we're going to employ version control in our project, our first step is to create the repository that our project will be stored in.  **To ensure that both you and your partner get to see every step of how to work with version control, for the rest of this exercise you are going to complete every step twice, once from the perspective of the OWNER of the repository and once as the COLLABORATOR**.
+
+### OWNER
+
+1. Go to your account on github.com and under the Repositories tab click on the "New" button with a picture of a book on it
+2. Choose a name for your repository (make sure it's different from your partner's)
+3. Click the "Initialize this repository with a README" checkbox
+4. Optionally also provide a Description, Add a licence (e.g. MIT), and add R to the .gitignore
+5. Click "Create Repository"
+6. Copy the URL of your new repository by clicking the green Code button and clicking the clipboard icon 
+7. To clone the repository,open up RStudio and create a New Project using this URL Note: this current project will close when you do so, so you'll need to re-open this file from within the new project
+ + Select New Project from the menu in the top right corner
+ + Select Version Control then Git
+ + Paste the URL in and click Create Project
+ 
+## Task 2: Add the first function:read in csv from github
+
+Lets pretend the project you are working on requires the wasting disease data we worked on in previous labs
+Here's some code to grab the wasting data file directly from Sarah's github
+```{r, eval=FALSE}
+install.packages("readr")
+library(readr)
+data <- read_csv("https://raw.githubusercontent.com/daviessw/BI586/master/R_Worksheet/Wasting_Data.csv", skip=1)
+```
+
+### OWNER
+
+1. In RStudio, click File > New File > R Script
+2. Copy and Paste the above code into this file (just the three lines of code, not the chunk options)
+3. Save the file as "01_download.Wasting_Data.R"
+4. From the Git tab, click the box next to the file you just created. This is equivalent to _git add_
+5. Click Commit, enter a log message (briefly describe what you are doing in this script), and click Commit. This is equivalent to _git commit_
+6. To push the change up to Github click on the green up arrow. This is equivalent to _git push_
+(You will know it has worked if you no longer see the .R file in your Git tab on rstudio)
+
+## Task 3: Collaborator adds plot
+
+With the first function complete, let's now imagine that a **COLLABORATOR** has been tasked with adding a plot. To do so they must first fork and clone the repository
+
+### COLLABORATOR
+
+1. Go to Github and navigate to the project repository within the OWNER's workspace.
+2. Click Fork, which will make a copy of the repository to your own workspace.
+3. Copy the URL to your own version and follow the instructions above for cloning the repository in RStudio.
+4. Open the file "01_download.Wasting_Data.R"
+5. Add the following code and save the file with the same name 
+```{r, eval=FALSE}
+library(ggplot2)
+boxplot(data$`Average WD (%)`~Transect,data=data, main="not sure what to put here",
+        xlab="Transect", ylab="Average wasting disease %")
+```
+6. Follow the instructions above to Add, Commit, and Push the file back to your Github
+7. Next you want to perform a "pull request", which will send a request to the OWNER that they pull your new code into their mainline version. From your Github page for this project, click **New Pull Request**.
+7. Follow the instructions, creating a title, message, and confirming that you want to create the pull request
+
+### OWNER
+
+1. Once the COLLABORATOR has created the pull request, you should get an automatic email and also be able to see the pull request under the "Pull Requests" tab on the Github page for the project.
+2. Read the description of the proposed changes and then click on "Files Changed" to view the changes to the project. New code should be in green, while deleted code will be in pink.
+3. The purpose of a pull request is to allow the OWNER to evaluate the code being added before it is added. As you read through the code, if you hover your mouse over any line of code you can insert an inline comment in the code. The COLLABORATOR would then have the ability to respond to any comments. In larger projects, all participants can discuss the code and decide whether it should be accepted or not. Furthermore, if the COLLABORATOR does any further pushes to Github before the pull request is accepted these changes will automatically become part of the pull request. While this is a very handy feature, it can also easily backfire if the COLLABORATOR was also working on their own changes and hadn't pushed them to git yet. This is why it is important to sync often and work with separate files if you want to work simultaneously 
+4. Click on the "Conversation" page to return where you started. All participants can also leave more general comments on this page. 
+5. If you are happy with the code, click "Merge Pull Request". Alternatively, to outright reject a pull request click "Close pull request"
+
+### OWNER
+
+1. Pull the latest code from Github. In RStudio this is done by clicking the light blue down pull arrow on the Git tab. This is equivalent to the commandline _git pull origin master_ where origin refers to where the where you did your orginal clone from and master refers to your main branch (if you use branches you can pull other branches)
+2. Next, open the 01_download.Wasting_Data.R file again and add a title in the boxplot
+3. As before, add your  file under the Git tab, Commit the change, and push it back to Github
