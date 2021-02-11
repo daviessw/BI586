@@ -21,3 +21,6 @@ Here are some additional short videos from a Harvard course on R: https://www.yo
 
 Lecture 4: Introduction to Git using RStudio interface: https://bostonu.zoom.us/rec/share/WKwCO0In9lsdV_PPJdNdV4-68OJnL7c-BEfDVZSNP8F2i5LG-0i2vWQ--hd5I9HK.9Rmav3Fag9wmfyas?startTime=1612879440000
 (Access Password: acyS$zf9)
+
+Lecture 5: Introduction to RMarkdown (No video available) 
+https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
