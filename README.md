@@ -27,3 +27,4 @@ https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf
 
 Lecture 6: Introduction to Community Ecological Genomics Part 1:
 Reading 1: Deiner_et_al-2017-Molecular_Ecology (pdf can be found in the readings folder)
+Googledoc for discussions: https://docs.google.com/spreadsheets/d/1XFUeqUxM9hAAH9lWr-mzeBtBpCVziKgcLc8Qs_9OZEs/edit#gid=0
