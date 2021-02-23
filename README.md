@@ -34,3 +34,7 @@ Recorded lecture: https://bostonu.zoom.us/rec/share/QP_O50x_PU58GfdUJcIV_rPU_Ku7
 Lecture 7: How to give a strong presentation (~10.5 minutes):
 https://bostonu.zoom.us/rec/share/Tp4nMAtLK65NHR1_Iq_B_kbjAdW-DEY9WpGtdMZnql9fwZc97PjRHp5f0FyUxXRt.rj3STEN4pCDGfMkd
 (Access Password: i^tqF7vW)
+
+Lecture 8: Introduction to Metabarcoding:
+https://bostonu.zoom.us/rec/share/GtQV-0PUjeAdocoqw06JulyNjDNENBhbP18sHfr-c-5XThgfmnnlRMkBB0zJDnQ7.WMaWCn6El48U7lDq
+(Access Password: k1.!5.m7)
