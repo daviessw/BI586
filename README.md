@@ -40,3 +40,7 @@ https://bostonu.zoom.us/rec/share/Tp4nMAtLK65NHR1_Iq_B_kbjAdW-DEY9WpGtdMZnql9fwZ
 Lecture 8: Introduction to Metabarcoding:
 https://bostonu.zoom.us/rec/share/GtQV-0PUjeAdocoqw06JulyNjDNENBhbP18sHfr-c-5XThgfmnnlRMkBB0zJDnQ7.WMaWCn6El48U7lDq
 (Access Password: k1.!5.m7)
+
+Lecture 9: Discussion 1
+https://bostonu.zoom.us/rec/share/YtKQ36xAAKwRZr7aw5M19dI6I-hFm2Gi1TXELzjbMB_Jy37RNMKKpkHl8r2fGhAB.aHHRMhrBdeZI9jEK
+(Access Password: 2@.Ng3V8)
