@@ -44,3 +44,7 @@ https://bostonu.zoom.us/rec/share/GtQV-0PUjeAdocoqw06JulyNjDNENBhbP18sHfr-c-5XTh
 Lecture 9: Discussion 1
 https://bostonu.zoom.us/rec/share/YtKQ36xAAKwRZr7aw5M19dI6I-hFm2Gi1TXELzjbMB_Jy37RNMKKpkHl8r2fGhAB.aHHRMhrBdeZI9jEK
 (Access Password: 2@.Ng3V8)
+
+Lecture 10: Guest Lectures on Gene Expression Profiling
+https://bostonu.zoom.us/rec/share/4VHHK2fArHSRPT8-g7Rar7dF5MZl9Qg1iRlbWW-8BZYMmDFXlbeHtRg0Ant6Ifzm.YgIUNMbcPZt6VL61
+(Access Password: ak7@Uvjp)
