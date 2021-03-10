@@ -13,7 +13,7 @@ Tag-based RNA-seq reads processing pipeline, version December 29, 2017
 cd /projectnb/bi594/YOURUSERNAME
 mkdir gene_expression
 cd gene_expression
-cp /projectnb/bi594/daviessw/gene_expression/data_scripts/* .
+ln -s /projectnb/bi594/daviessw/gene_expression/data_scripts/* .
 ls -l
 
 #let's look at everything
