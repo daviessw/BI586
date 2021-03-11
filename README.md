@@ -52,3 +52,7 @@ https://bostonu.zoom.us/rec/share/4VHHK2fArHSRPT8-g7Rar7dF5MZl9Qg1iRlbWW-8BZYMmD
 Lecture 11: Presentations of Assignment 1
 https://bostonu.zoom.us/rec/share/OM2_ehcpAgA3_TzLbFtFabJ8WgrzKKGulynGKhbckJDl5z2f0RqrO7Kd3YMKyTAc.b_ta-3mABPqbxPZ9
 (Access Password: #9G5e=tm)
+
+Lecture 12: Introduction to Gene Expression
+https://bostonu.zoom.us/rec/share/h-XSW8EMBJFx8IkuTThWNhe5BRG1vVmWGOtM0L4rEUPKNmLdXAIfMYA-xQoo2uvI.ZhJIRA_XFtpeNtpt
+(Access Password: 4Rg$5j7c)
