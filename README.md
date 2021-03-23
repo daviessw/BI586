@@ -60,3 +60,7 @@ https://bostonu.zoom.us/rec/share/h-XSW8EMBJFx8IkuTThWNhe5BRG1vVmWGOtM0L4rEUPKNm
 Lecture 13: Discussion 2: Gene Expression
 https://bostonu.zoom.us/rec/share/X3rJGmyzmxfDLeaqxz1lVptsGLdCrGd4plz4GgM9pMqPOsIuvJHAWQaUlX0qSA3Q.Z2DWeHv4qUL7-VKv
 (Access Password: *T#j1sBj)
+
+Lecture 14: DESeq2 + Gene Ontology Enrichment
+https://bostonu.zoom.us/rec/share/AYQBO9d2JNcXSAvan59ecg7qoVNJsxs6ojkKENWzX2QnvSY4fRTJI7-r1IACX1n8._68oHQOfGtZfBHdF
+(Access Password: CHC1U4&z)
