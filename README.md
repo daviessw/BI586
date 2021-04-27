@@ -69,3 +69,7 @@ Lecture 15: WGCNA
 https://bostonu.zoom.us/rec/share/PKlBEck1tw2cx62d3SO8X_d9cvezfH1Uv2V5y4yQ8v7A-dNky0IhTP9qvGXLONZn.6i_HO8GEJ3H4ENKZ
 (Access Password: *@6$1x.q)
 Link to tutorial: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-559
+
+Discussion 4: Controversial Genomics
+https://bostonu.zoom.us/rec/share/RloXCU0TLiU04cdMeMidXEhafmDm20GoLi4wZPjGGqT6uhL5_kTElMSvnirR6Gj2.io9Ja6GoagUa8RIX
+(Access Password: j68Xy^mv)
