@@ -73,3 +73,7 @@ Link to tutorial: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1
 Discussion 4: Controversial Genomics
 https://bostonu.zoom.us/rec/share/RloXCU0TLiU04cdMeMidXEhafmDm20GoLi4wZPjGGqT6uhL5_kTElMSvnirR6Gj2.io9Ja6GoagUa8RIX
 (Access Password: j68Xy^mv)
+
+Final Presentations!
+https://bostonu.zoom.us/rec/share/p85AK6C4d6WivYIy12ACgUYHHsf87vZ9J9IQOmT68EVmjfxd1Oa0P7cPkDE2CmVD.tdkq1FxAhu8P0E1m
+(Access Password: O$uqu0cw)
